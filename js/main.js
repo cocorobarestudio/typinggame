@@ -12,6 +12,8 @@
         'red',
         'blue',
         'pink',
+        'orange',
+        'purple'
     ];
     let word;
     let loc = 0;
